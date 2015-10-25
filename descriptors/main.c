@@ -27,7 +27,6 @@ void a1(int argc, char **argv){
         int c = suma(a, &b);
         printf("%d + %d = %d\n", a,b ,c);
     }
-
 }
 
 
