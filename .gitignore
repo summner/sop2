@@ -1,0 +1,8 @@
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt.user
+*.run
+cmake_install.cmake
+Makefile
+*.swp
+sop2
