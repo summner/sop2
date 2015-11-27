@@ -25,8 +25,9 @@
 
 /* program realizujący zad 5 IPC
  *
- * wywołanie
- *
+ * wywołanie ./ipc.msg.run
+ * można stworzyć dowolną ilość instancji
+ * każda działa w trybie client/server
  *
  */
 
