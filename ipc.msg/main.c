@@ -20,8 +20,15 @@
 
 #include <errno.h>
 
-#define KEY 99
+#define KEY 124
 #define SRV_CMDLINE "-srv"
+
+/* program realizujący zad 5 IPC
+ *
+ * wywołanie
+ *
+ *
+ */
 
 
 int input_available()
