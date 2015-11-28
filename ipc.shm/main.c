@@ -44,6 +44,7 @@ int main(int argc, char **argv){
 
         printf("Reader\n");
         while(1){
+            printf("> %s\n", p);
             if (strncmp(p, STRING_A, sizeof(STRING_A)) != 0 && strncmp(p, STRING_B, sizeof(STRING_B))!= 0){
                 printf("erreur %s\n", p);
                 printf("%d %d\n", strncmp(p, STRING_A, sizeof(STRING_A)), strncmp(p, STRING_B, sizeof(STRING_B)));
